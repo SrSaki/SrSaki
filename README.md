@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Daniel Pulido]
 
-<!--
-**SrSaki/SrSaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Tecnólogo en Gestión de Redes de Datos** | **Entusiasta de la Ciberseguridad** | **Apasionado por las Telecomunicaciones**
 
-Here are some ideas to get you started:
+Actualmente estoy realizando mi etapa práctica en **IPS Previred**, donde soy responsable de gestionar y mantener la red de telecomunicaciones. Mi enfoque principal está en la ciberseguridad, el hacking ético, y la automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+- **Redes de Datos**: Diseño, implementación y mantenimiento de redes de datos.
+- **Ciberseguridad**: Configuración y análisis de seguridad en redes y sistemas.
+- **Programación**: Scripts de automatización y análisis en Bash, Python.
+- **Virtualización**: Experiencia con Hyper-V, VirtualBox, y entornos de laboratorio.
+
+## 🌱 Actualmente
+
+- Mejorando mis habilidades en **Pentesting** y **Redes Defensivas**.
+- Explorando nuevas tecnologías en **Cloud Computing**.
+
+## 🛠️ Herramientas
+
+- **Sistema Operativo**: Linux (Ubuntu, Kali), Windows Server
+- **Networking**: Cisco Packet Tracer, Wireshark
+- **Desarrollo**: Visual Studio Code, Git
+- **Automatización**: Bash, Python
+
+## 📫 Cómo contactarme
+
+- **LinkedIn**: [https://www.linkedin.com/in/daniel-felipe-pulido-castro-8a84881a2/](#)
+- **Instagram**: [@Sakinad.hacker](#)
+
+---
+
+⚡ **Siempre en busca de nuevos retos y aprendizajes en el mundo de las telecomunicaciones y la ciberseguridad.**
+
