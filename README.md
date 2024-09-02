@@ -1,4 +1,4 @@
-# <img src="https://github.com/SrSaki/SrSaki/blob/main/logo.png" alt="Logo" width="50"> ¡Hola! Soy Daniel Pulido 
+# <img src="https://github.com/SrSaki/SrSaki/blob/main/logo.png" alt="Logo" width="90"> ¡Hola! Soy Daniel Pulido 
 
 👨‍💻 **Tecnólogo en Gestión de Redes de Datos** | **Entusiasta de la Ciberseguridad** | **Apasionado por las Telecomunicaciones**
 
