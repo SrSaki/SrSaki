@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel Pulido 👋
+# 👋 ¡Hola! Soy Daniel Pulido <img src="https://github.com/SrSaki/SrSaki/blob/main/Logo.png" alt="Logo" width="20">
 
 👨‍💻 **Tecnólogo en Gestión de Redes de Datos** | **Entusiasta de la Ciberseguridad** | **Apasionado por las Telecomunicaciones**
 
